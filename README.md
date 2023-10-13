@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <img src="https://github.com/ankit6823/ankit6823/blob/Main/Your%20paragraph%20text.png" alt="Your Logo">
     <h1>Ankit Pal - Software Developer</h1>
 </head>
 <body>
