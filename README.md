@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Ankit Pal - Software Developer</title>
+    <h1>Ankit Pal - Software Developer</h1>
 </head>
 <body>
 
-<h1 style="text-align: center;">Hi 👋, I'm Ankit Pal</h1>
+<h1 style="text-align: left;">Hi 👋, I'm Ankit Pal</h1>
 <h3 style="text-align: center;">A passionate Software developer from India</h3>
 
 <img style="float: right;" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
